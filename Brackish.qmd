@@ -1,0 +1,16 @@
+---
+title: "Brackish"
+---
+
+Where river waters meet the sea, the water isn't salt water, but it's not fresh either. It's **Brackish**!
+
+"Brackish" sums up our group. We're not pros, but not beginners either. We play new songs, but love the same songs loved by your grandparents. And like the sea, we always welcome new friends with their instruments and voices.
+
+We play the first Thursday of the month at North Channel Brewery. We just love to play jigs and reels in the corner but do request a bar song! Then raise a glass and join us in song.
+
+Songs we know are found in the top left corner titled "lyrics"
+
+```{r}
+```
+
+![Typical Thursday night](images/winter_jam.jpg)

@@ -1,0 +1,28 @@
+project:
+  type: website
+
+website:
+  title: "Lyrics"  # This is the label at the top left
+
+  navbar:
+    left:
+      - href: Brackish.qmd
+        text: Home
+      - text: Songs
+        menu:
+          - href: Wild_Mountain_Thyme.qmd
+            text: Wild Mountain Thyme
+          - href: Leaving_of_Liverpool.qmd
+            text: Leaving of Liverpool
+          - href: The_Galway_Girl.qmd
+            text: The Galaway Girl
+          - href: All_for_me_grog.qmd
+            text: All For Me Grog
+  
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+
+
