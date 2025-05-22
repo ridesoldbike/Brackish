@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Lyrics"  # This is the label at the top left
+  title: "Song Lyrics"  # This is the label at the top left
 
   navbar:
     left:
@@ -18,6 +18,19 @@ website:
             text: The Galaway Girl
           - href: All_for_me_grog.qmd
             text: All For Me Grog
+          - href: The_Black_Velvet_Band.qmd
+            text: The Black Velvet Band
+          - href: Dirty_Old_Town.qmd
+            text: Dirty Old Town
+          - href: Gone.qmd
+            text: Gone
+          - href: Run_Runaway.qmd
+            text: Run_Runaway
+          - href: The_Parting_Glass.qmd
+            text: The Parting Glass
+        
+            
+            
   
 
 format:
