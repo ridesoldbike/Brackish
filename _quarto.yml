@@ -1,8 +1,9 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "Song Lyrics"  # This is the label at the top left
+  title: "Song Lyrics"
 
   navbar:
     left:
@@ -25,17 +26,11 @@ website:
           - href: Gone.qmd
             text: Gone
           - href: Run_Runaway.qmd
-            text: Run_Runaway
+            text: Run Runaway
           - href: The_Parting_Glass.qmd
             text: The Parting Glass
-        
-            
-            
-  
 
 format:
   html:
     theme: cosmo
     toc: true
-
-
