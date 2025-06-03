@@ -7,7 +7,7 @@ website:
 
   navbar:
     left:
-      - href: Brackish.qmd
+      - href: index.qmd
         text: Home
       - text: Songs
         menu:
